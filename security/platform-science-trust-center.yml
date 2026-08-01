@@ -1,0 +1,31 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.platformscience.com/
+url: https://trust.platformscience.com/
+certifications:
+- SOC 2 Type 2
+- SOC 3
+- ISO/IEC 27001:2022
+- CCPA
+- LGPD
+- NIS 2
+validators:
+- Schellman
+- Baker Tilly US
+documents:
+- penetration test reports (access request)
+- compliance materials (access request / bulk download)
+evidence:
+- source: https://trust.platformscience.com/
+  keywords:
+  - soc 2 type 2
+  - soc 3
+  - iso/iec 27001:2022
+  - ccpa
+  - lgpd
+  - nis 2
+- source: https://www.platformscience.com/security
+  keywords:
+  - soc 2 type 2 certified since 2021
+  - iso 27001 audited by schellman
